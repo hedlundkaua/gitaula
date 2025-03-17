@@ -1,6 +1,6 @@
 package Entities;
 
-public class Caixa {
+public class Caixa{
     private Double amount;
 
     public Caixa(){
@@ -17,5 +17,6 @@ public class Caixa {
     public void setAmount(Double amount) {
         this.amount = amount;
     }
+
 
 }
