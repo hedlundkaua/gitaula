@@ -30,7 +30,7 @@ public class CaixinhaTest {
 
         }
         for(int i = 0; i < per.length; i++){
-            System.out.println("----------------------");
+            System.out.println("'----------------------");
             System.out.println("Nome da " + (i+1) + " pessoa: " + per[i].getName());
             System.out.println("Valor aplicado da " + (i+1) + " pessoa: " + per[i].getAmount());
         }
